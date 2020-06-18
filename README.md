@@ -1,6 +1,8 @@
 # VCCA workshop 2020
 Raw materials for a workshop on infrastructure and open science at the **Virtual Conference on Computational Audiology (VCCA)**, june 19th, 2020.
 
+link: https://docs.google.com/presentation/d/1XPwInjOAWw-UeVytrjGQKowuIcrCw57FGZc4vrlU33w/edit?usp=sharing
+
 The talk refers to a number of pages and publications with a short description here:
 
 # https://www.practicereproducibleresearch.org/
