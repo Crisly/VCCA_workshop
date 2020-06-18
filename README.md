@@ -1,10 +1,10 @@
 # VCCA workshop 2020
-Raw materials for a workshop on infrastructure and open science at the Virtual Conference on Computational Audiology (VCCA), june 19th, 2020.
+Raw materials for a workshop on infrastructure and open science at the **Virtual Conference on Computational Audiology (VCCA)**, june 19th, 2020.
 
 The talk refers to a number of pages and publications with a short description here:
 
 # https://www.practicereproducibleresearch.org/
-A consise piece of work on reproducible science. I've taken the liberty to ask participants what the greates hurdle for open science is, based on the 'pain points' descibed in chapter 5(https://www.practicereproducibleresearch.org/core-chapters/5-lessons.html)
+A consise piece of work on reproducible science. I've taken the liberty to ask participants what the greates hurdle for open science is, based on the 'pain points' descibed in chapter 5 (https://www.practicereproducibleresearch.org/core-chapters/5-lessons.html)
 
 # How long does it take to reproduce a figure from a paper three years back:
 As it turns out, it is approximately 280 hours. If you are an expert or the author. Otherwise it is not reproducible
